@@ -1,0 +1,1 @@
+pip install streamlit google-generativeai python-dotenv langchain pypdf2 chromadb faiss-cpu lanchain_google_genai
